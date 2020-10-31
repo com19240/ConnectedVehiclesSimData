@@ -1,5 +1,5 @@
 # ConnectedVehiclesSimData
-This repository shares the simulated false information, DoS, and impersonation attack data on connected vehicles from SUMO on the South Carolina connected vehicle testbed (SC-CVT) Perimeter Rd, Clemson, SC. Details can be found in "Comert, Gurcan, Mizanur Rahman, Mhafuzul Islam, and Mashrur Chowdhury. "Change Point Models for Real-time Cyber Attack Detection in Connected Vehicle Environment." https://arxiv.org/abs/2003.04185, arXiv preprint arXiv:2003.04185 (2020)." 
+This repository shares the simulated false information, DoS, and impersonation attack data on connected vehicles from SUMO on the South Carolina connected vehicle testbed (SC-CVT) Perimeter Rd, Clemson, SC. Details are published as preprint and can be found in "Comert, Gurcan, Mizanur Rahman, Mhafuzul Islam, and Mashrur Chowdhury. "Change Point Models for Real-time Cyber Attack Detection in Connected Vehicle Environment." https://arxiv.org/abs/2003.04185, arXiv preprint arXiv:2003.04185 (2020)." 
 
 Using the generated trace file from the SUMO simulation, three different cyber-attack scenarios are generated (description to be updated with data shared from toher scenarios): 
 
